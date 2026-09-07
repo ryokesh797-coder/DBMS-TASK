@@ -1,0 +1,6 @@
+payment_id,customer_id,amount,payment_mode,payment_date,payment_status
+1,101,1500.00,UPI,2026-08-01,Successful
+2,102,2500.00,Card,2026-08-02,Successful
+3,103,1200.00,UPI,2026-08-03,Failed
+4,104,3000.00,Cash,2026-08-04,Successful
+5,105,1800.00,Card,2026-08-05,Failed
